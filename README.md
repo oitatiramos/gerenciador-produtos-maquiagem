@@ -75,9 +75,7 @@ Abaixo você encontrará todas as informações necessárias para começar a usa
 
 ## 🧪 Testes com Postman
 
-Aqui está o espaço reservado para você adicionar as **evidências positivas do Postman**:
-
-### ✅ **Evidências**
+### ✅ **Evidências positivas do Postman**
 <div align="center">
     <img src="https://github.com/user-attachments/assets/029423d2-7407-4c63-a8db-55cd098e882b" alt="Descrição da Imagem" width="700px">
 </div>
